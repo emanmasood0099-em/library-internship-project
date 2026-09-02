@@ -50,3 +50,9 @@ dotnet restore
 
 dotnet run
 
+
+
+## Git Workflow
+
+This project uses feature branches and Pull Requests for changes before merging into main.
+
